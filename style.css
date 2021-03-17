@@ -35,3 +35,22 @@ body a {
 h1 {
     text-align: left;
 }
+
+li {
+    text-align: left;
+}
+
+#gyomlalas {
+    float:right;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: solid 1px black;
+}
+
+p {
+    text-align: left;
+}
+
+li:first-child {
+    font-weight: bolder;
+}
