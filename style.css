@@ -1,7 +1,6 @@
 body {
     background-color: #9CEE59;
     color: black;
-
 }
 
 body a {
@@ -37,7 +36,8 @@ h1 {
 }
 
 li {
-    text-align: left;
+    text-align: justify;
+    font-weight: normal;
 }
 
 #gyomlalas {
@@ -48,9 +48,10 @@ li {
 }
 
 p {
-    text-align: left;
+    text-align: justify;
+    font-weight: normal;
 }
 
-li:first-child {
+.bold {
     font-weight: bolder;
 }
